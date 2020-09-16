@@ -1,0 +1,680 @@
+tablerownames,ticker,company,constituentStart,constituentEnd,industryCode,industry
+1,A.US Equity,Agilent Technologies Inc.,2000-06-02,null,351010,Health Care Equipment & Supplies
+2,AA.US Equity,Alcoa Inc,1970-01-01,2016-10-31,151040,Metals & Mining
+3,AAL.US Equity,American Airlines Group Inc,2015-03-20,null,203020,Airlines
+4,AAP.US Equity,Advance Auto Parts Inc,2015-07-08,null,255040,Specialty Retail
+5,AAPL.US Equity,Apple Inc.,1982-11-18,null,452020,Computers & Peripherals
+6,ABBV.US Equity,AbbVie Inc.,2013-01-01,null,352020,Pharmaceuticals
+7,ABC.US Equity,AmerisourceBergen Corp.,2001-08-29,null,351020,Health Care Providers & Services
+9,ABK.US Equity,Ambac Financial Group Inc,2003-09-25,2008-06-10,403010,Insurance
+10,ABT.US Equity,Abbott Laboratories,1970-01-01,null,351010,Health Care Equipment & Supplies
+11,ACAS.US Equity,American Capital Ltd,2007-07-06,2009-03-02,402030,Capital Markets
+12,ACN.US Equity,Accenture plc,2011-07-05,null,451020,IT Services
+13,ACS.US Equity,Affiliated Computer Services,2004-04-01,2010-02-04,451020,IT Services
+14,ADBE.US Equity,Adobe Systems Inc.,1997-05-05,null,451030,Software
+15,ADI.US Equity,Analog Devices Inc.,1999-10-11,null,453010,Semiconductors & Semiconductor Equipment
+16,ADM.US Equity,Archer-Daniels-Midland Co.,1981-07-30,null,302020,Food Products
+17,ADP.US Equity,Automatic Data Processing Inc,1981-02-26,null,451020,IT Services
+18,ADS.US Equity,Alliance Data Systems Corp,2013-12-20,2020-06-18,451020,IT Services
+19,ADSK.US Equity,Autodesk Inc.,1989-12-20,null,451030,Software
+20,AEE.US Equity,Ameren Corp.,1991-09-19,null,551030,Multi-Utilities
+21,AEP.US Equity,"American Electric Power Company, Inc",1970-01-01,null,551010,Electric Utilities
+22,AES.US Equity,AES Corp.,1998-10-01,null,551050,Independent Power Producers & Energy Traders
+23,AET.US Equity,Aetna Inc.,1976-07-01,2018-11-28,351020,Health Care Providers & Services
+24,AFL.US Equity,AFLAC Inc.,1999-05-27,null,403010,Insurance
+25,AGN.US Equity,Allergan plc,1999-04-09,2020-05-08,352020,Pharmaceuticals
+26,AIG.US Equity,AIG Inc.,1980-02-14,null,403010,Insurance
+27,AIV.US Equity,Aimco,2003-03-13,null,601010,Equity Real Estate Investment Trusts (REITs)
+28,AIZ.US Equity,Assurant Inc.,2007-04-09,null,403010,Insurance
+29,AJG.US Equity,Arthur J. Gallagher & Co,2016-05-27,null,403010,Insurance
+30,AKAM.US Equity,Akamai Technologies Inc.,2007-07-11,null,451020,IT Services
+31,AKS.US Equity,AK Steel Holding Corp.,2008-06-30,2011-12-15,151040,Metals & Mining
+32,ALB.US Equity,Albemarle Corp,2016-06-30,null,151010,Chemicals
+33,ALK.US Equity,Alaska Air Group,2016-05-12,null,203020,Airlines
+34,ALL.US Equity,Allstate Corp.,1995-07-12,null,403010,Insurance
+35,ALLE.US Equity,Allegion Plc,2013-11-29,null,201020,Building Products
+36,ALXN.US Equity,Alexion Pharmaceuticals Inc,2012-05-24,null,352010,Biotechnology
+37,AMAT.US Equity,Applied Materials Inc.,1995-03-15,null,453010,Semiconductors & Semiconductor Equipment
+38,AMD.US Equity,Advanced Micro Devices Inc,1984-06-21,2013-09-19,453010,Semiconductors & Semiconductor Equipment
+39,AME.US Equity,AMETEK Inc,2013-09-20,null,201040,Electrical Equipment
+40,AMG.US Equity,Affiliated Managers Group Inc,2014-06-30,2019-12-19,402030,Capital Markets
+41,AMGN.US Equity,Amgen Inc.,1991-12-31,null,352010,Biotechnology
+42,AMP.US Equity,Ameriprise Financial Inc,2005-09-30,null,402030,Capital Markets
+43,AMT.US Equity,American Tower Corp.,2007-11-16,null,601010,Equity Real Estate Investment Trusts (REITs)
+44,AMZN.US Equity,Amazon.com Inc.,2005-11-18,null,255020,Internet & Catalog Retail
+45,AN.US Equity,AutoNation Inc.,2003-02-21,2017-08-06,255040,Specialty Retail
+46,ANDV.US Equity,Andeavor,2007-09-26,2018-09-27,101020,"Oil, Gas & Consumable Fuels"
+47,ANF.US Equity,Abercrombie & Fitch Co,2007-03-28,2013-12-19,255040,Specialty Retail
+48,ANTM.US Equity,Anthem Inc.,2002-07-24,null,351020,Health Care Providers & Services
+49,AON.US Equity,Aon plc,1996-04-22,null,403010,Insurance
+50,APA.US Equity,Apache Corp,1997-07-25,null,101020,"Oil, Gas & Consumable Fuels"
+51,APC.US Equity,Anadarko Petroleum Corp.,1997-07-25,2019-05-28,101020,"Oil, Gas & Consumable Fuels"
+52,APCC.US Equity,American Power Conversion Corp,2000-05-31,2007-02-13,201040,Electrical Equipment
+53,APD.US Equity,Air Products & Chemicals Inc,1985-04-11,null,151010,Chemicals
+54,APH.US Equity,Amphenol Corp.,2008-09-29,null,452030,"Electronic Equipment, Instruments & Components"
+55,APOL.US Equity,Apollo Education Group,2002-05-14,2013-06-27,253020,Diversified Consumer Services
+56,APTV.US Equity,Aptiv PLC,2012-12-21,null,251010,Auto Components
+57,ARG.US Equity,Airgas Inc.,2009-09-08,2016-05-19,151010,Chemicals
+58,ASH.US Equity,Ashland Global Holdings Inc,1989-08-03,2008-11-12,151010,Chemicals
+59,ASN.US Equity,Archstone-Smith Trust,2004-12-17,2007-10-04,601010,Equity Real Estate Investment Trusts (REITs)
+60,ATGE.US Equity,"DeVry, Inc.",2009-06-08,2012-09-27,253020,Diversified Consumer Services
+61,ATI.US Equity,Allegheny Technologies Inc.,1978-10-26,2015-06-30,151040,Metals & Mining
+62,ATVI.US Equity,Activision Blizzard Inc,2015-08-28,null,502020,Entertainment
+63,AVB.US Equity,AvalonBay Communities,2007-01-09,null,601010,Equity Real Estate Investment Trusts (REITs)
+64,AVGO.US Equity,Broadcom Ltd,2014-05-07,null,453010,Semiconductors & Semiconductor Equipment
+65,AVP.US Equity,Avon Products Inc,1970-01-01,2015-03-19,303020,Personal Products
+66,AVY.US Equity,Avery Dennison Corp,1987-12-24,null,151030,Containers & Packaging
+67,AW.US Equity,Allied Waste Industries Inc.,1999-07-30,2008-12-03,202010,Commercial Services & Supplies
+68,AWK.US Equity,American Water Works Inc,2016-03-03,null,551040,Water Utilities
+69,AXP.US Equity,American Express Co,1976-07-01,null,402020,Consumer Finance
+70,AYE.US Equity,Allegheny Energy Inc.,2000-12-08,2011-02-24,551010,Electric Utilities
+71,AYI.US Equity,Acuity Brands Inc,2016-05-02,2018-06-14,201040,Electrical Equipment
+72,AZO.US Equity,AutoZone Inc,1996-12-31,null,255040,Specialty Retail
+73,BA.US Equity,The Boeing Company,1970-01-01,null,201010,Aerospace & Defense
+74,BAC.US Equity,Bank of America Corp.,1976-07-01,null,401010,Commercial Banks
+75,BAX.US Equity,Baxter International Inc.,1972-09-14,null,351010,Health Care Equipment & Supplies
+76,BBBY.US Equity,Bed Bath & Beyond Inc,1999-09-30,2017-07-24,255040,Specialty Retail
+77,BBY.US Equity,Best Buy Co. Inc.,1999-06-29,null,255040,Specialty Retail
+78,BC.US Equity,Brunswick Corp.,1973-03-01,2008-06-19,252020,Leisure Equipment & Products
+79,BCR.US Equity,C. R. Bard Inc,1975-06-12,2017-12-27,351010,Health Care Equipment & Supplies
+80,BDK.US Equity,Black & Decker Manufacturing,1976-01-15,2010-03-11,252010,Household Durables
+81,BDX.US Equity,Becton Dickinson & Co,1972-09-14,null,351010,Health Care Equipment & Supplies
+82,BEN.US Equity,Franklin Resources Inc,1998-04-28,null,402030,Capital Markets
+83,BF-B.US Equity,Brown-Forman Corp.,1982-10-14,null,302010,Beverages
+84,BIG.US Equity,Big Lots Inc.,1998-01-16,2013-02-12,255030,Multiline Retail
+85,BIIB.US Equity,Biogen Idec Inc,2003-11-12,null,352010,Biotechnology
+86,BJS.US Equity,BJ Services Co.,2002-05-14,2010-04-28,101010,Energy Equipment & Services
+87,BK.US Equity,Bank of New York Mellon Corp,1995-03-30,null,402030,Capital Markets
+88,BKNG.US Equity,Booking Holdings Inc,2009-11-03,null,255020,Internet & Catalog Retail
+89,BKR.US Equity,Baker Hughes Co,1987-04-09,null,101010,Energy Equipment & Services
+90,BLK.US Equity,BlackRock Inc,2011-04-01,null,402030,Capital Markets
+91,BLL.US Equity,Ball Corp,1984-10-04,null,151030,Containers & Packaging
+93,BMET.US Equity,Biomet Inc.,1990-08-22,2007-07-10,351010,Health Care Equipment & Supplies
+94,BMS.US Equity,Bemis Company Inc,1978-07-20,2014-12-03,151030,Containers & Packaging
+95,BMY.US Equity,Bristol-Myers Squibb Company,1970-01-01,null,351020,Health Care Providers & Services
+96,BNI.US Equity,Burlington Northern Santa Fe Corp,1970-03-05,2010-02-11,203040,Road & Rail
+97,BOL.US Equity,Bausch & Lomb Inc.,1986-05-08,2007-10-25,351010,Health Care Equipment & Supplies
+98,BRCM.US Equity,Broadcom Corp.,2000-06-30,2016-01-28,453010,Semiconductors & Semiconductor Equipment
+99,BRK-B.US Equity,Berkshire Hathaway Inc,2010-02-12,null,402010,Diversified Financial Services
+100,BRL.US Equity,Barr Pharmaceuticals Inc.,2006-02-24,2008-12-21,352020,Pharmaceuticals
+101,BSX.US Equity,Boston Scientific Corp,1995-02-23,null,351010,Health Care Equipment & Supplies
+102,BWA.US Equity,BorgWarner Inc,2011-12-16,null,251010,Auto Components
+103,BXLT.US Equity,Baxalta,2015-06-30,2016-06-01,352010,Biotechnology
+104,BXP.US Equity,Boston Properties,2006-03-31,null,601010,Equity Real Estate Investment Trusts (REITs)
+105,C.US Equity,Citigroup Inc.,1988-05-26,null,401010,Commercial Banks
+106,CA.US Equity,CA Inc,1987-07-09,2018-09-21,451030,Software
+107,CAG.US Equity,ConAgra Brands Inc,1983-09-01,null,302020,Food Products
+108,CAH.US Equity,Cardinal Health Inc.,1997-05-23,null,351020,Health Care Providers & Services
+109,CAM.US Equity,Cameron International Corp,2008-01-28,2016-03-31,101010,Energy Equipment & Services
+110,CAT.US Equity,Caterpillar Inc,1970-01-01,null,201060,Machinery
+111,CB.US Equity,Chubb Ltd,2002-01-29,2008-07-16,403010,Insurance
+112,CB.US Equity,Chubb Ltd,2010-07-14,null,403010,Insurance
+113,CBE.US Equity,Cooper Industries plc,1970-01-01,2009-09-07,201040,Electrical Equipment
+114,CBE.US Equity,Cooper Industries plc,2011-11-22,2012-11-29,201040,Electrical Equipment
+115,CBRE.US Equity,CBRE Group Inc,2006-11-09,null,601020,Real Estate Management & Development
+116,CBSS.US Equity,Compass Bancshares Inc,2004-12-17,2007-09-06,401010,Commercial Banks
+117,CCI.US Equity,Crown Castle Int'l Corp.,2012-03-13,null,601010,Equity Real Estate Investment Trusts (REITs)
+118,CCL.US Equity,Carnival Corp.,1998-12-21,null,253010,"Hotels, Restaurants & Leisure"
+119,CEG.US Equity,Constellation Energy Group Inc,1970-01-01,2012-03-12,551050,Independent Power Producers & Energy Traders
+120,CELG.US Equity,Celgene Corp.,2006-11-03,2019-06-28,352010,Biotechnology
+121,CEPH.US Equity,Cephalon Inc.,2008-11-14,2011-10-13,352010,Biotechnology
+122,CERN.US Equity,Cerner Corp,2010-04-29,null,351030,Health Care Technology
+123,CF.US Equity,CF Industries Holdings Inc.,2008-08-26,null,151010,Chemicals
+124,CFC.US Equity,Countrywide Financial Corp.,1997-06-17,2008-06-29,401020,Thrifts & Mortgage Finance
+125,CFG.US Equity,Citizens Financial Group Inc,2016-01-29,null,401010,Commercial Banks
+126,CFN.US Equity,CareFusion Corp,2009-08-31,2015-03-16,351010,Health Care Equipment & Supplies
+127,CHD.US Equity,Church & Dwight Co Inc,2015-12-28,null,303010,Household Products
+128,CHK.US Equity,Chesapeake Energy Corp,2006-03-02,2018-03-17,101020,"Oil, Gas & Consumable Fuels"
+129,CHRW.US Equity,C.H. Robinson Worldwide Inc,2007-03-01,null,203010,Air Freight & Logistics
+130,CHTR.US Equity,Charter Communications Inc,2016-09-07,null,502010,Media
+131,CI.US Equity,Cigna Corp.,1982-04-08,null,351020,Health Care Providers & Services
+132,CIEN.US Equity,Ciena Corp.,2001-08-29,2009-12-17,452010,Communications Equipment
+133,CINF.US Equity,Cincinnati Financial Corp,1997-12-17,null,403010,Insurance
+134,CL.US Equity,Colgate-Palmolive Company,1970-01-01,null,303010,Household Products
+135,CLF.US Equity,Cleveland-Cliffs Inc,2009-12-18,2014-03-31,151040,Metals & Mining
+136,CLX.US Equity,The Clorox Company,1970-01-01,null,303010,Household Products
+137,CMA.US Equity,Comerica Inc.,1995-11-30,null,401010,Commercial Banks
+138,CMCSA.US Equity,Comcast Corp Class A,2002-11-18,null,502010,Media
+139,CMCSK.US Equity,Comcast Class A Spec.,2015-09-18,2015-12-10,254010,Media
+140,CME.US Equity,CME Group Inc.,2006-08-10,null,402030,Capital Markets
+141,CMG.US Equity,Chipotle Mexican Grill Inc,2011-04-27,null,253010,"Hotels, Restaurants & Leisure"
+142,CMI.US Equity,Cummins Inc,1970-01-01,null,201060,Machinery
+143,CMS.US Equity,CMS Energy Corp,1999-04-30,null,551030,Multi-Utilities
+144,CMVT.US Equity,Comverse Technology Inc,1999-10-26,2007-01-31,451030,Software
+145,CMX.US Equity,Caremark Rx,2004-03-24,2007-03-21,351020,Health Care Providers & Services
+146,CNC.US Equity,Centene Corp,2016-03-29,null,351020,Health Care Providers & Services
+147,CNP.US Equity,CenterPoint Energy Inc,1985-07-25,null,551030,Multi-Utilities
+148,CNX.US Equity,Consol Energy Inc.,2006-06-27,2016-03-02,101020,"Oil, Gas & Consumable Fuels"
+149,COF.US Equity,Capital One Financial Corp,1998-06-30,null,402020,Consumer Finance
+150,COG.US Equity,Cabot Oil & Gas Corp,2008-06-20,null,101020,"Oil, Gas & Consumable Fuels"
+151,COL.US Equity,Rockwell Collins Inc,2001-06-29,2018-11-26,201010,Aerospace & Defense
+152,COO.US Equity,The Cooper Companies Inc,2016-09-22,null,351010,Health Care Equipment & Supplies
+153,COP.US Equity,ConocoPhillips,1970-01-01,null,101020,"Oil, Gas & Consumable Fuels"
+154,COST.US Equity,Costco Wholesale Corp,1993-10-21,null,301010,Food & Staples Retailing
+155,COTY.US Equity,Coty Inc,2016-09-30,null,303020,Personal Products
+156,COV.US Equity,Covidien Plc,2007-06-29,2009-06-03,351010,Health Care Equipment & Supplies
+157,COV.US Equity,Covidien Plc,2011-02-28,2015-01-25,351010,Health Care Equipment & Supplies
+158,CPB.US Equity,Campbell Soup Company,1970-01-01,null,302020,Food Products
+159,CPGX.US Equity,Columbia Pipeline Group Inc.,2015-07-01,2016-06-30,101020,"Oil, Gas & Consumable Fuels"
+160,CPRI.US Equity,Capri Holdings Ltd,2013-11-12,2020-05-10,252030,"Textiles, Apparel & Luxury Goods"
+161,CRM.US Equity,Salesforce.com Inc,2008-09-12,null,451030,Software
+162,CSCO.US Equity,Cisco Systems Inc,1993-12-30,null,452010,Communications Equipment
+163,CSRA.US Equity,CSRA Inc,2015-11-30,2018-04-02,451020,IT Services
+164,CSX.US Equity,CSX Corp.,1980-11-06,null,203040,Road & Rail
+165,CTAS.US Equity,Cintas Corp.,2001-02-28,null,202010,Commercial Services & Supplies
+166,CTL.US Equity,CenturyLink Inc.,1999-03-24,null,501010,Diversified Telecommunication Services
+167,CTSH.US Equity,Cognizant Technology Solutions Corp,2006-11-16,null,451020,IT Services
+168,CTX.US Equity,Centex Corp.,1977-03-31,2009-08-17,252010,Household Durables
+169,CTXS.US Equity,Citrix Systems Inc,1999-11-30,null,451030,Software
+170,CVG.US Equity,Convergys Corp.,2000-06-12,2009-12-17,451020,IT Services
+171,CVH.US Equity,Coventry Corp,2005-08-29,2013-05-03,351020,Health Care Providers & Services
+172,CVS.US Equity,CVS Health Corporation,1970-01-01,null,351020,Health Care Providers & Services
+173,CVX.US Equity,Chevron Corporation,1970-01-01,null,101020,"Oil, Gas & Consumable Fuels"
+174,CXO.US Equity,Concho Resources Inc,2016-02-19,null,101020,"Oil, Gas & Consumable Fuels"
+175,D.US Equity,Dominion Resources Inc,1983-05-20,null,551010,Electric Utilities
+176,DAL.US Equity,Delta Air Lines Inc,2013-09-10,null,203020,Airlines
+177,DD.US Equity,"DuPont de Nemours, Inc",1970-01-01,null,151010,Chemicals
+178,DDS.US Equity,Dillard's Inc.,1986-10-02,2008-10-20,255030,Multiline Retail
+179,DE.US Equity,Deere & Company,1970-01-01,null,201060,Machinery
+180,DFS.US Equity,Discover Financial Services,2007-06-29,null,402020,Consumer Finance
+181,DG.US Equity,Dollar General Corp,2012-11-30,null,255030,Multiline Retail
+182,DGX.US Equity,Quest Diagnostics Inc,2002-12-11,null,351020,Health Care Providers & Services
+183,DHI.US Equity,D.R. Horton Inc,2005-07-01,null,252010,Household Durables
+184,DHR.US Equity,Danaher Corp.,1998-11-17,null,351010,Health Care Equipment & Supplies
+185,DIS.US Equity,Walt Disney Co,1976-07-01,null,502020,Entertainment
+186,DISCA.US Equity,Discovery Communications Inc Class A,2010-02-26,null,502010,Media
+187,DISCK.US Equity,Discovery Com Class C,2014-08-06,null,502010,Media
+188,DJ.US Equity,Dow Jones & Co. Inc.,1978-05-04,2007-12-12,254010,Media
+189,DLR.US Equity,Digital Realty Trust,2016-05-17,null,601010,Equity Real Estate Investment Trusts (REITs)
+190,DLTR.US Equity,Dollar Tree Inc,2011-12-16,null,255030,Multiline Retail
+191,DNB.US Equity,Dun & Bradstreet Corp,2008-12-01,2017-04-03,202020,Professional Services
+192,DNR.US Equity,Denbury Resources Inc.,2009-04-01,2015-03-19,101020,"Oil, Gas & Consumable Fuels"
+193,DO.US Equity,Diamond Offshore Drilling Inc,2009-02-25,2016-09-29,101010,Energy Equipment & Services
+194,DOV.US Equity,Dover Corp.,1985-10-24,null,201060,Machinery
+195,DRI.US Equity,Darden Restaurants Inc,1995-05-26,null,253010,"Hotels, Restaurants & Leisure"
+196,DTE.US Equity,DTE Energy Company,1970-01-01,null,551030,Multi-Utilities
+197,DUK.US Equity,Duke Energy Corp,1976-07-01,null,551010,Electric Utilities
+198,DVA.US Equity,DaVita Inc.,2008-07-30,null,351020,Health Care Providers & Services
+199,DVN.US Equity,Devon Energy Corp.,2000-08-29,null,101020,"Oil, Gas & Consumable Fuels"
+200,EA.US Equity,Electronic Arts Inc,2002-07-19,null,502020,Entertainment
+201,EBAY.US Equity,eBay Inc.,2002-07-19,null,255020,Internet & Catalog Retail
+202,ECL.US Equity,Ecolab Inc.,1989-01-12,null,151010,Chemicals
+203,ED.US Equity,"Consolidated Edison, Inc",1970-01-01,null,551010,Electric Utilities
+204,EFX.US Equity,Equifax Inc.,1997-06-18,null,202020,Professional Services
+205,EIX.US Equity,Edison International,1970-01-01,null,551010,Electric Utilities
+206,EL.US Equity,Estee Lauder Companies Inc,2006-01-04,null,303020,Personal Products
+207,EMC.US Equity,EMC Corp.,1996-03-27,2016-09-06,452020,Computers & Peripherals
+208,EMN.US Equity,Eastman Chemical Co,1994-01-03,null,151010,Chemicals
+209,EMR.US Equity,Emerson Electric Co,1970-01-01,null,201040,Electrical Equipment
+210,ENDP.US Equity,Endo Int'l plc,2015-01-26,2017-02-28,352020,Pharmaceuticals
+211,EOG.US Equity,EOG Resources Inc,2000-11-01,null,101020,"Oil, Gas & Consumable Fuels"
+212,EOP.US Equity,Equity Office Properties Trust,2001-10-09,2007-02-08,601010,Equity Real Estate Investment Trusts (REITs)
+213,EP.US Equity,El Paso Corp.,1999-10-25,2012-05-23,101020,"Oil, Gas & Consumable Fuels"
+214,EQIX.US Equity,Equinix Inc,2015-03-20,null,601010,Equity Real Estate Investment Trusts (REITs)
+215,EQR.US Equity,Equity Residential,2001-11-30,null,601010,Equity Real Estate Investment Trusts (REITs)
+216,EQT.US Equity,EQT Corp,2008-12-18,2018-11-11,101020,"Oil, Gas & Consumable Fuels"
+217,ES.US Equity,Eversource Energy,2009-03-16,null,551030,Multi-Utilities
+218,ESRX.US Equity,Express Scripts Holding Co,2003-09-25,2018-12-20,351020,Health Care Providers & Services
+219,ESS.US Equity,Essex Property Trust,2014-04-01,null,601010,Equity Real Estate Investment Trusts (REITs)
+220,ESV.US Equity,Valaris plc,2012-09-05,2016-03-30,101010,Energy Equipment & Services
+221,ETFC.US Equity,E*Trade Financial Corp.,2004-03-31,null,402030,Capital Markets
+222,ETN.US Equity,Eaton Corporation plc,1970-01-01,null,201040,Electrical Equipment
+223,ETR.US Equity,Entergy Corporation,1970-01-01,null,551010,Electric Utilities
+224,EVHC.US Equity,Envision Healthcare Holdings Inc,2016-12-01,2018-10-09,351020,Health Care Providers & Services
+225,EW.US Equity,Edwards Lifesciences Corp,2011-03-31,null,351010,Health Care Equipment & Supplies
+226,EXC.US Equity,Exelon Corporation,1970-01-01,null,551030,Multi-Utilities
+227,EXPD.US Equity,Expeditors Int'l of Washington Inc,2007-10-09,null,203010,Air Freight & Logistics
+228,EXPE.US Equity,Expedia Inc.,2007-10-01,null,255020,Internet & Catalog Retail
+229,EXR.US Equity,Extra Space Storage Inc,2016-01-15,null,601010,Equity Real Estate Investment Trusts (REITs)
+230,F.US Equity,Ford Motor Company,1970-01-01,null,251020,Automobiles
+231,FAST.US Equity,Fastenal Co.,2008-09-12,null,201020,Building Products
+232,FB.US Equity,Facebook Inc.,2013-12-20,null,502030,Interactive Media & Services
+233,FBHS.US Equity,Fortune Brands Home & Security Inc,2016-06-23,null,201020,Building Products
+234,FCX.US Equity,Freeport-McMoRan Inc.,1995-07-28,null,151040,Metals & Mining
+235,FDO.US Equity,Family Dollar Stores Inc,2001-08-03,2015-07-06,255030,Multiline Retail
+236,FDX.US Equity,FedEx Corp,1980-11-06,null,203010,Air Freight & Logistics
+237,FE.US Equity,FirstEnergy Corp,1970-01-01,null,551010,Electric Utilities
+238,FFIV.US Equity,F5 Networks Inc,2010-12-17,null,452010,Communications Equipment
+239,FHI.US Equity,Federated Hermes Inc,2003-04-15,2012-12-31,402030,Capital Markets
+240,FHN.US Equity,First Horizon National Corp,2002-05-03,2013-06-20,401010,Commercial Banks
+241,FIS.US Equity,Fidelity National Information Services Inc,2006-11-09,null,451020,IT Services
+242,FISV.US Equity,Fiserv Inc,2001-03-30,null,451020,IT Services
+243,FITB.US Equity,Fifth Third Bancorp,1996-03-07,null,401010,Commercial Banks
+244,FL.US Equity,Foot Locker Inc.,2016-04-01,2019-08-07,255040,Specialty Retail
+245,FLIR.US Equity,FLIR Systems Inc,2008-12-31,null,452030,"Electronic Equipment, Instruments & Components"
+246,FLR.US Equity,Fluor Corp.,2000-12-21,2019-05-30,201030,Construction & Engineering
+247,FLS.US Equity,Flowserve Corporation,2008-10-01,null,201060,Machinery
+248,FMC.US Equity,FMC Corp,2009-08-18,null,151010,Chemicals
+249,FMCC.US Equity,Freddie Mac (FHLMC),1991-12-31,2008-09-09,401020,Thrifts & Mortgage Finance
+250,FNMA.US Equity,Fannie Mae (FNMA),1988-08-11,2008-09-09,401020,Thrifts & Mortgage Finance
+251,FOSL.US Equity,Fossil Group,2012-04-03,2016-01-03,252030,"Textiles, Apparel & Luxury Goods"
+254,FRT.US Equity,Federal Realty Investment Trust,2016-01-29,null,601010,Equity Real Estate Investment Trusts (REITs)
+255,FRX.US Equity,Forest Laboratories Inc,2000-11-21,2014-06-29,352020,Pharmaceuticals
+256,FSLR.US Equity,First Solar Inc,2009-10-15,2017-03-18,453010,Semiconductors & Semiconductor Equipment
+257,FTI.US Equity,TechnipFMC plc,2009-06-04,null,101010,Energy Equipment & Services
+258,FTR.US Equity,Frontier Comm's Corp,2001-02-26,2017-03-18,501010,Diversified Telecommunication Services
+259,FTV.US Equity,Fortive Corp,2016-07-01,null,201060,Machinery
+260,GAS.US Equity,AGL Resources Inc.,2011-12-12,2016-06-29,551010,Electric Utilities
+261,GD.US Equity,General Dynamics Corporation,1970-01-01,null,201010,Aerospace & Defense
+262,GE.US Equity,General Electric Company,1970-01-01,null,201050,Industrial Conglomerates
+263,GENZ.US Equity,Genzyme Corp.,2001-12-13,2011-03-31,352010,Biotechnology
+264,GGP.US Equity,GGP Inc,2007-06-29,2008-11-11,601010,Equity Real Estate Investment Trusts (REITs)
+265,GGP.US Equity,GGP Inc,2013-12-09,2018-08-26,601010,Equity Real Estate Investment Trusts (REITs)
+266,GHC.US Equity,Graham Holdings Co,2007-12-28,2014-09-18,253020,Diversified Consumer Services
+267,GILD.US Equity,Gilead Sciences Inc,2004-06-30,null,352010,Biotechnology
+268,GIS.US Equity,"General Mills, Inc",1970-01-01,null,302020,Food Products
+269,GL.US Equity,Globe Life Inc,1989-04-27,null,403010,Insurance
+270,GLW.US Equity,Corning Incorporated,1970-01-01,null,452030,"Electronic Equipment, Instruments & Components"
+271,GM.US Equity,General Motors Co,2013-06-06,null,251020,Automobiles
+272,GMCR.US Equity,Keurig Green Mountain Inc,2014-03-21,2016-03-02,302020,Food Products
+273,GME.US Equity,GameStop Corp.,2007-12-13,2016-04-21,255040,Specialty Retail
+274,GNW.US Equity,Genworth Financial Inc.,2005-12-01,2015-11-16,403010,Insurance
+275,GOOG.US Equity,Alphabet Inc. Class C,2014-04-03,null,502030,Interactive Media & Services
+276,GOOGL.US Equity,Alphabet Inc. Class A,2006-03-31,null,502030,Interactive Media & Services
+277,GPC.US Equity,Genuine Parts Co,1973-11-15,null,255040,Specialty Retail
+278,GPN.US Equity,Global Payments Inc,2016-04-22,null,451020,IT Services
+279,GPS.US Equity,Gap Inc.,1986-08-21,null,255040,Specialty Retail
+280,GR.US Equity,Goodrich Corp.,1970-01-01,2012-07-26,201010,Aerospace & Defense
+281,GRMN.US Equity,Garmin Ltd,2012-12-11,null,252010,Household Durables
+282,GS.US Equity,Goldman Sachs Group Inc,2002-07-19,null,402030,Capital Markets
+283,GT.US Equity,The Goodyear Tire & Rubber Co,1970-01-01,2019-02-25,251010,Auto Components
+284,GWW.US Equity,W. W. Grainger Inc,1981-05-14,null,201060,Machinery
+285,HAL.US Equity,Halliburton Company,1970-01-01,null,101010,Energy Equipment & Services
+286,HAR.US Equity,Harman Int'l Industries Inc,2006-01-31,2013-03-12,252010,Household Durables
+287,HAS.US Equity,Hasbro Inc.,1984-09-13,null,252020,Leisure Equipment & Products
+288,HBAN.US Equity,Huntington Bancshares Inc,1997-08-05,null,401010,Commercial Banks
+289,HBI.US Equity,Hanesbrands Inc,2015-03-20,null,252030,"Textiles, Apparel & Luxury Goods"
+290,HCA.US Equity,HCA Holdings Inc,2015-01-26,null,351020,Health Care Providers & Services
+291,HCBK.US Equity,Hudson City Bancorp Inc,2007-02-14,2015-10-30,401020,Thrifts & Mortgage Finance
+292,HD.US Equity,Home Depot Inc,1988-03-03,null,255040,Specialty Retail
+293,HES.US Equity,Hess Corp,1984-05-17,null,101020,"Oil, Gas & Consumable Fuels"
+294,HIG.US Equity,Hartford Financial Services Group Inc,1995-12-19,null,403010,Insurance
+295,HMA.US Equity,Health Management Associates Inc,2001-11-06,2007-02-28,351020,Health Care Providers & Services
+296,HOG.US Equity,Harley-Davidson Inc,2000-01-28,2020-06-18,251020,Automobiles
+297,HOLX.US Equity,Hologic Inc,2016-03-29,null,351010,Health Care Equipment & Supplies
+298,HON.US Equity,Honeywell International Inc,1970-01-01,null,201050,Industrial Conglomerates
+299,HOT.US Equity,Starwood Hotels & Resorts Worldwide Inc,2000-11-16,2016-09-21,253010,"Hotels, Restaurants & Leisure"
+300,HP.US Equity,Helmerich and Payne Inc,2010-02-26,2020-05-20,101010,Energy Equipment & Services
+301,HPC.US Equity,Hercules Inc.,1970-01-01,2008-11-12,151010,Chemicals
+302,HPE.US Equity,Hewlett Packard Enterprise Co,2015-11-02,null,452020,Computers & Peripherals
+303,HPQ.US Equity,HP Inc,1974-10-17,null,452020,Computers & Peripherals
+304,HRB.US Equity,H&R Block Inc,1986-11-28,null,253020,Diversified Consumer Services
+305,HRL.US Equity,Hormel Foods Corp.,2009-03-03,null,302020,Food Products
+306,HSIC.US Equity,Henry Schein Inc,2015-03-17,null,351020,Health Care Providers & Services
+307,HSP.US Equity,Hospira Inc.,2004-04-30,2015-09-01,352020,Pharmaceuticals
+308,HST.US Equity,Host Hotels & Resorts,2007-03-19,null,601010,Equity Real Estate Investment Trusts (REITs)
+309,HSY.US Equity,The Hershey Company,1970-01-01,null,302020,Food Products
+310,HUM.US Equity,Humana Inc.,1995-11-30,null,351020,Health Care Providers & Services
+311,HWM.US Equity,Howmet Aerospace Inc,2016-11-01,null,201010,Aerospace & Defense
+312,IBM.US Equity,International Business Machines Corporation,1970-01-01,null,451020,IT Services
+313,ICE.US Equity,Intercontinental Exchange Inc,2007-09-25,null,402030,Capital Markets
+314,IFF.US Equity,International Flavors & Fragrances Inc,1976-03-04,null,151010,Chemicals
+315,IGT.US Equity,International Game Technology PLC,2001-08-31,2014-06-20,253010,"Hotels, Restaurants & Leisure"
+316,ILMN.US Equity,Illumina Inc,2015-11-18,null,352030,Life Sciences Tools & Services
+317,INTC.US Equity,Intel Corp.,1976-12-09,null,453010,Semiconductors & Semiconductor Equipment
+318,INTU.US Equity,Intuit Inc.,2000-12-08,null,451030,Software
+319,IP.US Equity,International Paper Company,1970-01-01,null,151030,Containers & Packaging
+320,IPG.US Equity,Interpublic Group of Companies Inc,1992-10-29,null,502010,Media
+321,IRM.US Equity,Iron Mountain Inc.,2009-01-05,null,601010,Equity Real Estate Investment Trusts (REITs)
+322,ISRG.US Equity,Intuitive Surgical Inc.,2008-06-02,null,351010,Health Care Equipment & Supplies
+323,ITT.US Equity,ITT Inc,1970-01-01,2011-10-30,201060,Machinery
+324,ITW.US Equity,Illinois Tool Works Inc,1986-02-13,null,201060,Machinery
+325,IVZ.US Equity,Invesco Ltd,2008-08-20,null,402030,Capital Markets
+326,J.US Equity,Jacobs Engineering Group,2007-10-25,null,201030,Construction & Engineering
+327,JAVA.US Equity,Sun Microsystems,1992-08-19,2010-01-26,452020,Computers & Peripherals
+328,JBHT.US Equity,J. B. Hunt Transport Services Inc.,2015-06-30,null,203040,Road & Rail
+329,JBL.US Equity,Jabil Circuit Inc,2001-01-29,2014-11-03,452030,"Electronic Equipment, Instruments & Components"
+330,JCI.US Equity,Johnson Controls International plc,1989-07-27,2009-03-15,201020,Building Products
+331,JCI.US Equity,Johnson Controls International plc,2010-08-26,null,201020,Building Products
+332,JCP.US Equity,J.C. Penney Co Inc,1970-01-01,2013-11-28,255030,Multiline Retail
+333,JEF.US Equity,Jefferies Financial Group Inc,2007-08-24,2019-09-24,402010,Diversified Financial Services
+334,JNJ.US Equity,Johnson & Johnson,1973-05-31,null,351010,Health Care Equipment & Supplies
+335,JNPR.US Equity,Juniper Networks Inc,2006-06-01,null,452010,Communications Equipment
+336,JNS.US Equity,Janus Capital Group,2000-07-12,2011-11-21,402030,Capital Markets
+337,JNY.US Equity,Jones Group,2001-12-14,2009-03-02,252030,"Textiles, Apparel & Luxury Goods"
+338,JOY.US Equity,Joy Global Inc.,2011-02-25,2015-10-06,201060,Machinery
+339,JPM.US Equity,JPMorgan Chase & Co.,1976-07-01,null,401010,Commercial Banks
+340,JWN.US Equity,Nordstrom Inc,1986-08-07,2020-06-18,255030,Multiline Retail
+341,K.US Equity,Kellogg Company,1970-01-01,null,302020,Food Products
+342,KATE.US Equity,Kate Spade & Co,1984-10-25,2008-11-30,252030,"Textiles, Apparel & Luxury Goods"
+343,KBH.US Equity,KB Home,1989-03-08,2009-12-17,252010,Household Durables
+344,KEY.US Equity,KeyCorp,1994-03-01,null,401010,Commercial Banks
+345,KG.US Equity,King Pharmaceuticals Inc.,2000-10-02,2010-12-16,352020,Pharmaceuticals
+346,KHC.US Equity,Kraft Heinz Co,2012-10-01,null,302020,Food Products
+347,KIM.US Equity,Kimco Realty,2006-03-31,null,601010,Equity Real Estate Investment Trusts (REITs)
+348,KLAC.US Equity,KLA-Tencor Corp.,1997-09-12,null,453010,Semiconductors & Semiconductor Equipment
+349,KMB.US Equity,Kimberly-Clark Corporation,1970-01-01,null,303010,Household Products
+350,KMI.US Equity,Kinder Morgan Inc,2012-05-24,null,101020,"Oil, Gas & Consumable Fuels"
+351,KMX.US Equity,Carmax Inc.,2010-06-28,null,255040,Specialty Retail
+352,KO.US Equity,The Coca-Cola Company,1970-01-01,null,302010,Beverages
+353,KR.US Equity,The Kroger Co,1970-01-01,null,301010,Food & Staples Retailing
+354,KRFT.US Equity,Kraft Foods Group Inc,2012-10-10,2015-07-02,302020,Food Products
+355,KSE.US Equity,KeySpan Corp,2000-08-18,2007-08-23,551030,Multi-Utilities
+356,KSS.US Equity,Kohl's Corp.,1998-08-13,null,255030,Multiline Retail
+357,KSU.US Equity,Kansas City Southern,2013-05-23,null,203040,Road & Rail
+358,L.US Equity,Loews Corp.,1995-05-09,null,403010,Insurance
+359,LB.US Equity,L Brands Inc.,1983-09-15,null,255040,Specialty Retail
+360,LDOS.US Equity,Leidos Holdings Inc,2009-12-18,2013-09-19,451020,IT Services
+361,LEG.US Equity,Leggett & Platt Inc,1999-10-15,null,252010,Household Durables
+362,LEH.US Equity,Lehman Brothers Holdings Inc,1970-01-01,2008-09-16,402010,Diversified Financial Services
+363,LEN.US Equity,Lennar Corp.,2005-10-03,null,252010,Household Durables
+364,LH.US Equity,Laboratory Corp of America Holdings,2004-10-29,null,351020,Health Care Providers & Services
+365,LHX.US Equity,L3Harris Technologies Inc,2008-09-19,null,201010,Aerospace & Defense
+366,LIN.US Equity,Linde plc,1992-07-02,null,151010,Chemicals
+367,LKQ.US Equity,LKQ Corp,2016-05-20,null,255010,Distributors
+368,LLL.US Equity,L3 Technologies Inc,2004-11-30,2019-06-27,201010,Aerospace & Defense
+369,LLTC.US Equity,Linear Technology Corp.,2000-03-31,2017-03-10,453010,Semiconductors & Semiconductor Equipment
+370,LLY.US Equity,Eli Lilly and Co.,1970-11-19,null,352020,Pharmaceuticals
+371,LM.US Equity,Legg Mason Inc,2006-04-21,2016-11-30,402030,Capital Markets
+372,LMT.US Equity,Lockheed Martin Corp.,1984-07-19,null,201010,Aerospace & Defense
+373,LNC.US Equity,Lincoln National Corp,1976-07-01,null,403010,Insurance
+374,LNT.US Equity,Alliant Energy Corp,2016-06-30,null,551010,Electric Utilities
+375,LO.US Equity,Lorillard Inc.,2008-06-10,2015-06-10,302030,Tobacco
+376,LOW.US Equity,Lowe's Companies Inc,1984-03-01,null,255040,Specialty Retail
+377,LRCX.US Equity,Lam Research Corp,2012-06-05,null,453010,Semiconductors & Semiconductor Equipment
+378,LSI.US Equity,"Life Storage, Inc",1995-12-13,2014-05-08,404010,Real Estate -- Discontinued effective 04/28/2006
+379,LUV.US Equity,Southwest Airlines Co,1994-07-12,null,203020,Airlines
+380,LVLT.US Equity,Level 3 Comm's Inc,2014-11-04,2017-10-11,501010,Diversified Telecommunication Services
+381,LXK.US Equity,Lexmark International Inc,1999-08-12,2012-09-27,452020,Computers & Peripherals
+382,LYB.US Equity,LyondellBasell Industries NV,2012-09-04,null,151010,Chemicals
+383,M.US Equity,Macy's Inc.,1995-11-07,2020-04-04,255030,Multiline Retail
+384,MA.US Equity,Mastercard Inc.,2008-07-17,null,451020,IT Services
+385,MAA.US Equity,Mid-America Apartment Communities,2016-12-01,null,601010,Equity Real Estate Investment Trusts (REITs)
+386,MAC.US Equity,The Macerich Co,2013-05-08,2019-12-19,601010,Equity Real Estate Investment Trusts (REITs)
+387,MAR.US Equity,Marriott International Inc,1993-10-11,null,253010,"Hotels, Restaurants & Leisure"
+388,MAS.US Equity,Masco Corp.,1981-06-18,null,201020,Building Products
+389,MAT.US Equity,Mattel Inc.,1982-03-11,2019-06-05,252020,Leisure Equipment & Products
+390,MBI.US Equity,MBIA Inc,1996-12-02,2009-12-17,403010,Insurance
+391,MCD.US Equity,McDonald's Corp.,1970-06-25,null,253010,"Hotels, Restaurants & Leisure"
+392,MCHP.US Equity,Microchip Technology Inc,2007-09-07,null,453010,Semiconductors & Semiconductor Equipment
+393,MCK.US Equity,McKesson Corp.,1999-01-12,null,351020,Health Care Providers & Services
+394,MCO.US Equity,Moody's Corp,2000-10-02,null,402030,Capital Markets
+395,MDLZ.US Equity,Mondelez International Inc,2007-03-30,null,302020,Food Products
+396,MDP.US Equity,Meredith Corp.,1970-01-01,2011-01-02,254010,Media
+397,MDT.US Equity,Medtronic PLC,1986-10-23,null,351010,Health Care Equipment & Supplies
+398,MEDI.US Equity,MedImmune Inc.,2000-06-15,2007-05-30,352010,Biotechnology
+399,MEE.US Equity,Massey Energy Co.,2008-06-20,2011-05-31,101020,"Oil, Gas & Consumable Fuels"
+400,MEL.US Equity,Mellon Financial Corp,1976-07-01,2007-06-28,402030,Capital Markets
+401,MER.US Equity,Merrill Lynch & Co,1982-04-08,2008-12-30,402030,Capital Markets
+402,MET.US Equity,MetLife Inc.,2000-12-08,null,403010,Insurance
+403,MFE.US Equity,McAfee Inc.,2008-12-22,2011-02-27,451030,Software
+404,MHK.US Equity,Mohawk Industries Inc,2013-12-20,null,252010,Household Durables
+405,MHS.US Equity,Medco Health Solution Inc,2003-08-19,2012-03-30,351020,Health Care Providers & Services
+406,MI.US Equity,Marshall & Ilsley Corp,2002-02-08,2011-07-04,401010,Commercial Banks
+407,MJN.US Equity,Mead Johnson Nutrition Co,2009-12-18,2017-06-14,302020,Food Products
+408,MKC.US Equity,McCormick & Company Inc,2003-03-20,null,302020,Food Products
+409,MLM.US Equity,Martin Marietta Materials Inc,2014-07-01,null,151020,Construction Materials
+410,MMC.US Equity,Marsh & McLennan Companies Inc,1987-08-06,null,403010,Insurance
+411,MMM.US Equity,3M Company,1970-01-01,null,201050,Industrial Conglomerates
+412,MNK.US Equity,Mallinckrodt plc,2014-08-18,2017-07-24,352020,Pharmaceuticals
+413,MNST.US Equity,Monster Beverage Corp,2012-06-28,null,302010,Beverages
+414,MOLX.US Equity,Molex Inc.,1999-11-30,2013-12-06,452030,"Electronic Equipment, Instruments & Components"
+415,MON.US Equity,Monsanto Co.,2002-08-13,2018-06-05,151010,Chemicals
+416,MOS.US Equity,Mosaic Co,2011-09-23,null,151010,Chemicals
+417,MPC.US Equity,Marathon Petroleum Corp,2011-06-30,null,101020,"Oil, Gas & Consumable Fuels"
+418,MRK.US Equity,"Merck & Co., Inc",1970-01-01,null,352020,Pharmaceuticals
+419,MRO.US Equity,Marathon Oil Corp.,1991-05-06,null,101020,"Oil, Gas & Consumable Fuels"
+420,MS.US Equity,Morgan Stanley,1995-09-21,null,402030,Capital Markets
+421,MSFT.US Equity,Microsoft Corp.,1994-06-06,null,451030,Software
+422,MSI.US Equity,"Motorola Solutions, Inc",1970-01-01,null,452010,Communications Equipment
+423,MTB.US Equity,M&T Bank Corp.,2004-02-26,null,401010,Commercial Banks
+424,MTD.US Equity,Mettler-Toledo Int'l Inc,2016-09-02,null,352030,Life Sciences Tools & Services
+425,MTG.US Equity,MGIC Investment Corp,1996-07-18,2008-10-29,401020,Thrifts & Mortgage Finance
+426,MTW.US Equity,Manitowoc Inc,2007-11-15,2009-08-30,201060,Machinery
+427,MU.US Equity,Micron Technology Inc,1994-09-26,null,453010,Semiconductors & Semiconductor Equipment
+428,MUR.US Equity,Murphy Oil Corp,2005-08-12,2017-07-24,101020,"Oil, Gas & Consumable Fuels"
+429,MWW.US Equity,Monster Worldwide Inc.,2001-06-01,2011-12-15,451010,Internet Software & Services
+430,MXIM.US Equity,Maxim Integrated Products Inc,2000-05-09,2007-09-25,453010,Semiconductors & Semiconductor Equipment
+431,MYL.US Equity,Mylan NV,2004-04-22,null,352020,Pharmaceuticals
+432,NAVI.US Equity,Navient Corp,2014-05-01,2018-06-03,402020,Consumer Finance
+433,NBL.US Equity,Noble Energy Inc.,2007-10-05,null,101020,"Oil, Gas & Consumable Fuels"
+434,NBR.US Equity,Nabors Industries Ltd,2000-10-17,2015-03-19,101010,Energy Equipment & Services
+435,NCC.US Equity,National City Corp.,1994-09-26,2008-12-30,401010,Commercial Banks
+436,NCR.US Equity,NCR Corp.,2000-01-03,2007-09-27,452020,Computers & Peripherals
+437,NDAQ.US Equity,Nasdaq Inc,2008-10-21,null,402030,Capital Markets
+438,NE.US Equity,Noble Corp plc,2001-01-12,2009-03-25,101010,Energy Equipment & Services
+439,NE.US Equity,Noble Corp plc,2011-01-14,2015-07-16,101010,Energy Equipment & Services
+440,NEE.US Equity,NextEra Energy Inc,1976-07-01,null,551030,Multi-Utilities
+441,NEM.US Equity,Newmont Corporation,1970-01-01,null,151040,Metals & Mining
+442,NFLX.US Equity,Netflix Inc.,2010-12-17,null,502020,Entertainment
+443,NFX.US Equity,Newfield Exploration Co.,2010-12-17,2019-02-13,101020,"Oil, Gas & Consumable Fuels"
+444,NI.US Equity,NiSource Inc.,2000-11-01,null,551030,Multi-Utilities
+445,NKE.US Equity,Nike Inc.,1988-11-03,null,252030,"Textiles, Apparel & Luxury Goods"
+446,NLOK.US Equity,NortonLifeLock Inc,2003-03-28,null,451030,Software
+447,NLSN.US Equity,Nielsen Holdings PLC,2013-07-08,null,202020,Professional Services
+448,NOC.US Equity,Northrop Grumman Corp.,1985-06-13,null,201010,Aerospace & Defense
+449,NOV.US Equity,National Oilwell Varco Inc.,2005-03-11,null,101010,Energy Equipment & Services
+450,NOVL.US Equity,Novell Inc,1991-10-31,2011-04-26,451030,Software
+451,NRG.US Equity,NRG Energy Inc,2010-01-27,null,551050,Independent Power Producers & Energy Traders
+452,NSC.US Equity,Norfolk Southern Corp.,1982-06-03,null,203040,Road & Rail
+453,NTAP.US Equity,NetApp Inc,1999-06-24,null,452020,Computers & Peripherals
+454,NTRS.US Equity,Northern Trust Corp.,1998-01-29,null,402030,Capital Markets
+455,NUE.US Equity,Nucor Corp.,1985-04-18,null,151040,Metals & Mining
+456,NVDA.US Equity,Nvidia Corp.,2001-11-29,null,453010,Semiconductors & Semiconductor Equipment
+457,NWL.US Equity,Newell Brands Inc,1989-04-27,null,252010,Household Durables
+458,NWS.US Equity,News Corp Class B,2015-09-18,null,502010,Media
+459,NWSA.US Equity,News Corp Class A,2013-06-28,null,502010,Media
+460,NYT.US Equity,New York Times Co,1984-11-23,2010-12-16,254010,Media
+461,NYX.US Equity,NYSE Euronext Inc,2007-10-24,2013-11-11,402010,Diversified Financial Services
+462,O.US Equity,Realty Income Corp,2015-04-06,null,601010,Equity Real Estate Investment Trusts (REITs)
+463,ODP.US Equity,Office Depot Inc.,1999-06-23,2010-12-16,255040,Specialty Retail
+464,OI.US Equity,Owens-Illinois Inc.,2008-12-31,2016-11-30,151030,Containers & Packaging
+465,OKE.US Equity,ONEOK Inc,2010-03-12,null,101020,"Oil, Gas & Consumable Fuels"
+466,OMC.US Equity,Omnicom Group Inc,1997-12-23,null,502010,Media
+467,OMX.US Equity,OfficeMax Inc (Old),1970-04-23,2008-06-19,255040,Specialty Retail
+468,ORCL.US Equity,Oracle Corp.,1989-08-03,null,451030,Software
+469,ORLY.US Equity,O'Reilly Automotive Inc,2009-03-26,null,255040,Specialty Retail
+470,OXY.US Equity,Occidental Petroleum Corp,1982-12-09,null,101020,"Oil, Gas & Consumable Fuels"
+471,PAYX.US Equity,Paychex Inc.,1998-09-30,null,451020,IT Services
+472,PBCT.US Equity,People's United Financial Inc,2008-11-12,null,401020,Thrifts & Mortgage Finance
+473,PBG.US Equity,Pepsi Bottling Group Inc.,2001-05-11,2010-02-25,302010,Beverages
+474,PBI.US Equity,Pitney Bowes Inc,1970-01-01,2017-02-27,202010,Commercial Services & Supplies
+475,PCAR.US Equity,PACCAR Inc.,1980-10-02,null,201060,Machinery
+476,PCG.US Equity,PG&E Corp,1970-01-01,2019-01-16,551030,Multi-Utilities
+477,PCL.US Equity,Plum Creek Timber Company,2002-01-16,2016-02-18,601010,Equity Real Estate Investment Trusts (REITs)
+478,PCP.US Equity,Precision Castparts Corp,2007-05-31,2016-01-28,201010,Aerospace & Defense
+479,PDCO.US Equity,Patterson Companies,2005-10-10,2018-03-17,351020,Health Care Providers & Services
+480,PEAK.US Equity,Healthpeak Properties Inc,2008-03-28,null,601010,Equity Real Estate Investment Trusts (REITs)
+481,PEG.US Equity,Public Service Enterprise Group Incorporated,1970-01-01,null,551010,Electric Utilities
+482,PEP.US Equity,"PepsiCo, Inc",1970-01-01,null,302010,Beverages
+483,PETM.US Equity,PetSmart Inc,2012-10-04,2015-03-10,255040,Specialty Retail
+484,PFE.US Equity,Pfizer Inc,1970-01-01,null,352020,Pharmaceuticals
+485,PFG.US Equity,Principal Financial Group Inc,2002-07-19,null,403010,Insurance
+486,PG.US Equity,The Procter & Gamble Company,1970-01-01,null,303020,Personal Products
+487,PGL.US Equity,Peoples Energy Corp,1970-01-01,2007-02-20,551020,Gas Utilities
+488,PGR.US Equity,Progressive Corp.,1997-08-01,null,403010,Insurance
+489,PH.US Equity,Parker-Hannifin Corp,1985-11-07,null,201060,Machinery
+490,PHM.US Equity,PulteGroup Inc,1984-04-12,null,252010,Household Durables
+491,PKI.US Equity,PerkinElmer Inc,1985-05-09,null,351010,Health Care Equipment & Supplies
+492,PLD.US Equity,Prologis,2003-07-16,null,601010,Equity Real Estate Investment Trusts (REITs)
+493,PM.US Equity,Philip Morris International Inc,2008-03-28,null,302030,Tobacco
+494,PMCS.US Equity,PMC-Sierra Inc,2001-08-02,2007-06-28,453010,Semiconductors & Semiconductor Equipment
+495,PNC.US Equity,PNC Financial Services Group Inc,1988-04-14,null,401010,Commercial Banks
+496,PNR.US Equity,Pentair plc,2012-09-28,null,201060,Machinery
+497,PNW.US Equity,Pinnacle West Capital Corp,1999-10-01,null,551030,Multi-Utilities
+498,POM.US Equity,Pepco Holdings Inc.,2007-11-08,2016-03-23,551010,Electric Utilities
+499,PPG.US Equity,"PPG Industries, Inc",1970-01-01,null,151010,Chemicals
+500,PPL.US Equity,PPL Corp.,1995-11-24,null,551010,Electric Utilities
+501,PRGO.US Equity,Perrigo Company Plc,2011-12-16,null,352020,Pharmaceuticals
+502,PRU.US Equity,Prudential Financial Inc,2002-07-19,null,403010,Insurance
+503,PSA.US Equity,Public Storage,2005-08-18,null,601010,Equity Real Estate Investment Trusts (REITs)
+504,PSX.US Equity,Phillips 66,2012-04-30,null,101020,"Oil, Gas & Consumable Fuels"
+505,PTV.US Equity,Pactiv Corp,1999-11-04,2010-11-15,151030,Containers & Packaging
+506,PVH.US Equity,PVH Corp.,2013-02-13,null,252030,"Textiles, Apparel & Luxury Goods"
+507,PWR.US Equity,Quanta Services Inc.,2009-06-30,null,201030,Construction & Engineering
+508,PXD.US Equity,Pioneer Natural Resources Co,2008-09-23,null,101020,"Oil, Gas & Consumable Fuels"
+509,PYPL.US Equity,PayPal Holdings Inc.,2015-07-17,null,451020,IT Services
+510,QCOM.US Equity,Qualcomm Inc,1999-07-21,null,453010,Semiconductors & Semiconductor Equipment
+511,QEP.US Equity,QEP Resources Inc,2010-06-30,2015-06-29,101020,"Oil, Gas & Consumable Fuels"
+512,QLGC.US Equity,QLogic Corp.,2000-12-11,2011-01-13,452030,"Electronic Equipment, Instruments & Components"
+513,QRVO.US Equity,Qorvo Inc,2015-06-11,null,453010,Semiconductors & Semiconductor Equipment
+514,R.US Equity,Ryder System Inc,1982-12-30,2017-06-17,203040,Road & Rail
+515,RAI.US Equity,Reynolds American Inc.,2002-09-03,2017-07-24,302030,Tobacco
+516,RCL.US Equity,Royal Caribbean Cruises Ltd,2014-12-04,null,253010,"Hotels, Restaurants & Leisure"
+517,RDC.US Equity,Rowan Companies plc,1985-01-10,2014-08-17,101010,Energy Equipment & Services
+518,REGN.US Equity,Regeneron Pharmaceuticals Inc.,2013-04-30,null,352010,Biotechnology
+519,RF.US Equity,Regions Financial Corp.,1998-08-27,null,401010,Commercial Banks
+520,RHI.US Equity,Robert Half Int'l Inc,2000-12-04,null,202020,Professional Services
+521,RHT.US Equity,Red Hat Inc.,2009-07-24,2019-07-08,451030,Software
+522,RIG.US Equity,Transocean Ltd,1999-12-30,2008-12-17,101010,Energy Equipment & Services
+523,RIG.US Equity,Transocean Ltd,2013-10-28,2017-07-24,101010,Energy Equipment & Services
+524,RL.US Equity,Ralph Lauren Corp,2007-02-01,null,252030,"Textiles, Apparel & Luxury Goods"
+525,ROH.US Equity,Rohm & Hass Co,1982-09-16,2009-03-31,151010,Chemicals
+526,ROK.US Equity,"Rockwell Automation, Inc",1970-01-01,null,201040,Electrical Equipment
+527,ROP.US Equity,Roper Technologies Inc,2009-12-22,null,201050,Industrial Conglomerates
+528,ROST.US Equity,Ross Stores Inc,2009-12-18,null,255040,Specialty Retail
+529,RRC.US Equity,Range Resources Corp.,2007-12-20,2018-06-14,101020,"Oil, Gas & Consumable Fuels"
+530,RRD.US Equity,RR Donnelley & Sons Co,1984-07-19,2012-12-10,202010,Commercial Services & Supplies
+531,RSG.US Equity,Republic Services Inc.,2008-12-04,null,202010,Commercial Services & Supplies
+532,RTX.US Equity,Raytheon Co.,1970-01-01,null,201010,Aerospace & Defense
+533,RX.US Equity,Ims Health Inc,1970-01-01,2010-02-25,351020,Health Care Providers & Services
+534,S.US Equity,Sprint Corp,1989-07-27,2013-07-07,501020,Wireless Telecommunication Services
+535,SANM.US Equity,Sanmina Corp.,2000-06-20,2007-06-28,452030,"Electronic Equipment, Instruments & Components"
+536,SBL.US Equity,Symbol Technologies Inc,2000-12-08,2007-01-08,452030,"Electronic Equipment, Instruments & Components"
+537,SBUX.US Equity,Starbucks Corp.,2000-06-07,null,253010,"Hotels, Restaurants & Leisure"
+538,SCG.US Equity,SCANA Corp.,2008-12-31,2018-12-30,551030,Multi-Utilities
+539,SCHW.US Equity,Charles Schwab Corp.,1997-05-30,null,402030,Capital Markets
+540,SEE.US Equity,Sealed Air Corp.,1998-03-31,null,151030,Containers & Packaging
+541,SEP.US Equity,Spectra Energy Corp.,2006-12-29,2017-02-26,101020,"Oil, Gas & Consumable Fuels"
+542,SGP.US Equity,Schering-Plough Corp.,1970-01-01,2009-11-02,352020,Pharmaceuticals
+543,SHLD.US Equity,Sears Holdings Corp,2005-03-24,2012-09-03,255030,Multiline Retail
+544,SHW.US Equity,The Sherwin-Williams Company,1970-01-01,null,151010,Chemicals
+545,SIAL.US Equity,Sigma-Aldrich Corp.,1994-09-20,2015-11-17,151010,Chemicals
+546,SIG.US Equity,Signet Jewelers Ltd,2015-07-28,2018-03-17,255040,Specialty Retail
+547,SII.US Equity,Smith Int'l Inc,2006-09-29,2010-08-25,101010,Energy Equipment & Services
+548,SITC.US Equity,SITE Centers Corp,2007-03-22,2009-03-26,601010,Equity Real Estate Investment Trusts (REITs)
+549,SJM.US Equity,J. M. Smucker Co,2008-11-05,null,302020,Food Products
+550,SLB.US Equity,Schlumberger Limited,1970-01-01,null,101010,Energy Equipment & Services
+551,SLG.US Equity,SL Green Realty,2015-03-20,null,601010,Equity Real Estate Investment Trusts (REITs)
+552,SLM.US Equity,SLM Corp.,1998-06-30,2014-04-30,402020,Consumer Finance
+553,SLR.US Equity,Solectron Corp.,1998-12-30,2007-09-30,452030,"Electronic Equipment, Instruments & Components"
+554,SNA.US Equity,Snap-On Inc.,1982-09-16,null,201060,Machinery
+555,SNDK.US Equity,SanDisk Corp,2006-04-19,2016-05-11,452020,Computers & Peripherals
+556,SNI.US Equity,Scripps Networks Interactive Inc,2008-06-30,2018-03-05,254010,Media
+557,SNV.US Equity,Synovus Financial Corp.,1997-11-26,2007-12-30,401010,Commercial Banks
+558,SO.US Equity,The Southern Company,1970-01-01,null,551010,Electric Utilities
+559,SOV.US Equity,Sovereign Bancorp Inc,2004-06-30,2009-01-28,401010,Commercial Banks
+560,SPG.US Equity,Simon Property Group,2002-06-25,null,601010,Equity Real Estate Investment Trusts (REITs)
+561,SPGI.US Equity,S&P Global Inc,1970-01-01,null,402030,Capital Markets
+562,SPLS.US Equity,Staples Inc.,1998-10-06,2017-09-12,255040,Specialty Retail
+563,SRCL.US Equity,Stericycle Inc.,2008-11-18,2018-11-29,202010,Commercial Services & Supplies
+564,SRE.US Equity,Sempra Energy,1998-06-29,null,551030,Multi-Utilities
+565,SSP.US Equity,E. W. Scripps Co,2005-12-19,2008-06-29,254010,Media
+566,STI.US Equity,SunTrust Banks Inc,1988-05-05,2019-12-05,401010,Commercial Banks
+567,STJ.US Equity,St. Jude Medical Inc,1989-11-30,2017-01-03,351010,Health Care Equipment & Supplies
+568,STR.US Equity,Questar Corp.,2006-11-30,2010-06-29,551020,Gas Utilities
+569,STT.US Equity,State Street Corp.,1997-08-15,null,402030,Capital Markets
+570,STX.US Equity,Seagate Technology plc,2012-06-29,null,452020,Computers & Peripherals
+571,STZ.US Equity,Constellation Brands Inc,2005-07-01,null,302010,Beverages
+572,SVU.US Equity,Supervalu Inc.,1985-01-31,2012-04-29,301010,Food & Staples Retailing
+573,SWK.US Equity,Stanley Black & Decker Inc,1982-09-16,null,201060,Machinery
+574,SWKS.US Equity,Skyworks Solutions Inc.,2015-03-11,null,453010,Semiconductors & Semiconductor Equipment
+575,SWN.US Equity,Southwestern Energy Co,2008-06-06,2017-04-02,101020,"Oil, Gas & Consumable Fuels"
+576,SWY.US Equity,Safeway Inc.,1998-11-12,2015-01-25,301010,Food & Staples Retailing
+577,SYF.US Equity,Synchrony Financial,2015-11-17,null,402020,Consumer Finance
+578,SYK.US Equity,Stryker Corp.,2000-12-11,null,351010,Health Care Equipment & Supplies
+579,SYY.US Equity,Sysco Corp.,1986-12-18,null,301010,Food & Staples Retailing
+580,T.US Equity,AT&T Inc.,1983-12-01,null,501010,Diversified Telecommunication Services
+581,TAP.US Equity,Molson Coors Brewing Co.,1976-07-01,null,302010,Beverages
+582,TDC.US Equity,Teradata Corp.,2007-09-28,2017-06-17,451020,IT Services
+583,TDG.US Equity,TransDigm Group,2016-06-02,null,201010,Aerospace & Defense
+584,TE.US Equity,TECO Energy Inc,2001-10-09,2016-06-29,551030,Multi-Utilities
+585,TEG.US Equity,Integrys Energy Group,2007-02-21,2015-06-29,551030,Multi-Utilities
+586,TEK.US Equity,Tektronix Inc.,1970-01-01,2007-11-14,452030,"Electronic Equipment, Instruments & Components"
+587,TEL.US Equity,TE Connectivity Ltd,2007-06-29,2009-06-24,452030,"Electronic Equipment, Instruments & Components"
+588,TEL.US Equity,TE Connectivity Ltd,2011-10-14,null,452030,"Electronic Equipment, Instruments & Components"
+589,TER.US Equity,Teradyne Inc,1999-11-12,2013-12-19,453010,Semiconductors & Semiconductor Equipment
+590,TEX.US Equity,Terex Corp.,2006-12-19,2008-11-04,201060,Machinery
+591,TFC.US Equity,Truist Financial Corp,1997-12-03,null,401010,Commercial Banks
+592,TGNA.US Equity,TEGNA Inc,1975-12-11,2017-05-31,254010,Media
+593,TGT.US Equity,Target Corp.,1976-12-09,null,255030,Multiline Retail
+594,THC.US Equity,Tenet Healthcare Corp.,1979-02-08,2016-04-14,351020,Health Care Providers & Services
+595,TIF.US Equity,Tiffany & Co.,2000-06-20,null,252030,"Textiles, Apparel & Luxury Goods"
+596,TIN.US Equity,Temple-Inland Inc.,1986-12-18,2007-12-27,151030,Containers & Packaging
+597,TJX.US Equity,TJX Companies Inc.,1985-09-26,null,255040,Specialty Retail
+598,TLAB.US Equity,Tellabs Inc.,1995-06-30,2011-12-19,452010,Communications Equipment
+599,TMO.US Equity,Thermo Fisher Scientific Inc,1996-12-31,null,351010,Health Care Equipment & Supplies
+600,TMUS.US Equity,T-Mobile US Inc,2009-06-29,2013-04-29,501020,Wireless Telecommunication Services
+601,TPR.US Equity,Tapestry Inc.,2004-08-31,null,252030,"Textiles, Apparel & Luxury Goods"
+602,TRB.US Equity,Tribune Co,1970-01-01,2007-12-20,254010,Media
+603,TRIP.US Equity,TripAdvisor Inc,2011-12-20,2019-12-19,502030,Interactive Media & Services
+604,TROW.US Equity,T. Rowe Price Group Inc,1999-10-12,null,402030,Capital Markets
+605,TRV.US Equity,Travelers Companies Inc,1976-07-01,null,403010,Insurance
+606,TSCO.US Equity,Tractor Supply Co.,2014-01-23,null,255040,Specialty Retail
+607,TSN.US Equity,Tyson Foods Inc,2005-08-10,null,302020,Food Products
+608,TT.US Equity,Trane Inc.,2002-05-10,2008-06-05,201060,Machinery
+609,TT.US Equity,Trane Technologies plc,2010-11-16,null,201060,Machinery
+610,TT.US Equity,Trane Technologies plc,1970-01-01,2009-06-29,201060,Machinery
+611,TWC.US Equity,Time Warner Cable Inc.,2009-03-27,2016-05-16,254010,Media
+612,TWX.US Equity,Time Warner Inc.,1998-12-31,2018-06-15,254010,Media
+613,TXN.US Equity,Texas Instruments Incorporated,1970-01-01,null,453010,Semiconductors & Semiconductor Equipment
+614,TXU.US Equity,TXU Corp.,1970-01-01,2007-10-08,551050,Independent Power Producers & Energy Traders
+615,UA.US Equity,Under Armour Inc Class C,2016-04-14,null,252030,"Textiles, Apparel & Luxury Goods"
+616,UAA.US Equity,Under Armour Class A,2014-04-30,null,252030,"Textiles, Apparel & Luxury Goods"
+617,UAL.US Equity,United Continental Holdings Inc,2015-09-02,null,203020,Airlines
+618,UDR.US Equity,UDR Inc,2016-03-04,null,601010,Equity Real Estate Investment Trusts (REITs)
+619,UHS.US Equity,Universal Health Services Inc,2014-09-19,null,351020,Health Care Providers & Services
+620,UIS.US Equity,Unisys Corp.,1970-01-01,2008-11-09,451020,IT Services
+621,ULTA.US Equity,Ulta Salon Cosmetics & Fragrance Inc,2016-04-15,null,255040,Specialty Retail
+622,UNH.US Equity,UnitedHealth Group Inc,1994-06-30,null,351020,Health Care Providers & Services
+623,UNM.US Equity,Unum Group,1994-03-10,null,403010,Insurance
+624,UNP.US Equity,Union Pacific Corporation,1970-01-01,null,203040,Road & Rail
+625,UPS.US Equity,United Parcel Service Inc,2002-07-19,null,203010,Air Freight & Logistics
+626,URBN.US Equity,Urban Outfitters Inc,2010-02-05,2017-03-18,255040,Specialty Retail
+627,URI.US Equity,United Rentals Inc,2014-09-19,null,201070,Trading Companies & Distributors
+628,USB.US Equity,U.S. Bancorp,1998-12-31,null,401010,Commercial Banks
+629,UTX.US Equity,United Technologies Corporation,1970-01-01,null,201010,Aerospace & Defense
+630,UVN.US Equity,Univision Comm Inc,2001-02-06,2007-03-27,254010,Media
+631,V.US Equity,Visa Inc.,2009-12-18,null,451020,IT Services
+632,VAL.US Equity,Ensco plc,1970-01-01,2009-12-21,101010,Energy Equipment & Services
+633,VAL.US Equity,Ensco plc,2012-07-30,2016-03-28,101010,Energy Equipment & Services
+634,VAL.US Equity,Valaris plc,2007-01-03,null,101010,Energy Equipment & Services
+635,VFC.US Equity,VF Corp,1979-05-03,null,252030,"Textiles, Apparel & Luxury Goods"
+636,VIAB.US Equity,Viacom Inc.,2005-12-30,2019-12-03,502020,Entertainment
+637,VIAC.US Equity,ViacomCBS Inc,1994-09-29,null,502010,Media
+638,VIAV.US Equity,VIAVI Solutions Inc,2000-07-26,2013-12-19,452010,Communications Equipment
+639,VLO.US Equity,Valero Energy Corp,2004-04-28,null,101020,"Oil, Gas & Consumable Fuels"
+640,VMC.US Equity,Vulcan Materials Co,1999-06-30,null,151020,Construction Materials
+641,VNO.US Equity,Vornado Realty Trust,2005-08-11,null,601010,Equity Real Estate Investment Trusts (REITs)
+642,VRSK.US Equity,Verisk Analytics Inc,2015-10-07,null,202020,Professional Services
+643,VRSN.US Equity,Verisign Inc.,2006-01-31,null,451020,IT Services
+644,VRTX.US Equity,Vertex Pharmaceuticals Inc.,2013-09-20,null,352010,Biotechnology
+645,VTR.US Equity,Ventas Inc.,2009-03-03,null,601010,Equity Real Estate Investment Trusts (REITs)
+646,VZ.US Equity,Verizon Communications Inc,1983-12-01,null,501010,Diversified Telecommunication Services
+647,WAT.US Equity,Waters Corp.,2001-12-31,null,351020,Health Care Providers & Services
+648,WBA.US Equity,Walgreens Boots Alliance Inc,1979-10-11,null,301010,Food & Staples Retailing
+649,WDC.US Equity,Western Digital Corp,2009-06-30,null,452020,Computers & Peripherals
+650,WEC.US Equity,WEC Energy Group Inc,2008-10-30,null,551010,Electric Utilities
+651,WELL.US Equity,Welltower Inc,2009-01-29,null,601010,Equity Real Estate Investment Trusts (REITs)
+652,WEN.US Equity,Wendy's International,1982-03-04,2008-09-28,253010,"Hotels, Restaurants & Leisure"
+653,WFC.US Equity,Wells Fargo & Co,1976-07-01,null,401010,Commercial Banks
+654,WFM.US Equity,Whole Foods Market Inc,2005-12-30,2017-08-27,301010,Food & Staples Retailing
+655,WHR.US Equity,Whirlpool Corporation,1970-01-01,null,252010,Household Durables
+656,WIN.US Equity,Windstream Holdings Inc,2006-07-17,2015-04-05,501010,Diversified Telecommunication Services
+657,WLTW.US Equity,Willis Towers Watson,2016-01-04,null,403010,Insurance
+658,WM.US Equity,Waste Management Inc.,1998-07-16,null,202010,Commercial Services & Supplies
+659,WMB.US Equity,Williams Companies Inc,1975-02-06,null,101020,"Oil, Gas & Consumable Fuels"
+660,WMT.US Equity,Wal-Mart Stores Inc,1982-08-19,null,301010,Food & Staples Retailing
+661,WPX.US Equity,WPX Energy Inc,2011-12-30,2014-03-20,101020,"Oil, Gas & Consumable Fuels"
+662,WRK.US Equity,WestRock Company,1970-01-01,null,151030,Containers & Packaging
+663,WU.US Equity,Western Union Co.,2006-09-29,null,451020,IT Services
+664,WWY.US Equity,Wrigley Co.,1970-01-01,2008-10-02,302020,Food Products
+665,WY.US Equity,Weyerhaeuser Company,1970-01-01,null,601010,Equity Real Estate Investment Trusts (REITs)
+666,WYE.US Equity,Wyeth Corp.,1970-01-01,2009-10-14,352020,Pharmaceuticals
+667,WYND.US Equity,Wyndham Destinations Inc,2006-07-31,2018-05-29,253010,"Hotels, Restaurants & Leisure"
+668,WYNN.US Equity,Wynn Resorts Ltd,2008-11-13,null,253010,"Hotels, Restaurants & Leisure"
+669,X.US Equity,United States Steel Corp,1991-05-06,2014-06-30,151040,Metals & Mining
+670,XEC.US Equity,Cimarex Energy Co,2014-06-20,2020-03-01,101020,"Oil, Gas & Consumable Fuels"
+671,XEL.US Equity,Xcel Energy Inc,1970-01-01,null,551030,Multi-Utilities
+672,XL.US Equity,XL Group Ltd,2001-08-31,2018-09-12,403010,Insurance
+673,XLNX.US Equity,Xilinx Inc.,1999-11-05,null,453010,Semiconductors & Semiconductor Equipment
+674,XOM.US Equity,Exxon Mobil Corporation,1970-01-01,null,101020,"Oil, Gas & Consumable Fuels"
+675,XRAY.US Equity,Dentsply Sirona Inc,2008-11-13,null,351010,Health Care Equipment & Supplies
+676,XRX.US Equity,Xerox Holdings Corporation,1970-01-01,null,452020,Computers & Peripherals
+677,XTO.US Equity,XTO Energy Inc.,2004-12-28,2010-06-25,101020,"Oil, Gas & Consumable Fuels"
+678,XYL.US Equity,Xylem Inc.,2011-10-31,null,201060,Machinery
+679,YHOO.US Equity,Yahoo! Inc,1999-12-07,2017-06-16,451010,Internet Software & Services
+680,YUM.US Equity,Yum! Brands Inc.,1997-10-06,null,253010,"Hotels, Restaurants & Leisure"
+681,ZBH.US Equity,Zimmer Biomet Holdings Inc,2001-08-06,null,351010,Health Care Equipment & Supplies
+682,ZION.US Equity,Zions Bancorp,2001-06-22,null,401010,Commercial Banks
+683,ZTS.US Equity,Zoetis Inc,2013-06-21,null,352020,Pharmaceuticals
